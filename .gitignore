@@ -1,0 +1,21 @@
+# Gradle
+.gradle/
+build/
+local.properties
+/.gradle/
+.gradle/
+.gradle/
+externalNativeBuild/
+.cxx/
+
+# Android/IntelliJ/Android Studio
+.idea/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/assetWizardSettings.xml
+.idea/navEditor.xml
+
+.DS_Store---# Android----
+.idea.asset.all.platformxml
