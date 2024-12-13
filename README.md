@@ -26,6 +26,7 @@ NotificationFilter/
 ├── gradle/             # Gradle build scripts
 ├── .gitignore          # Excluded files from version control
 ├── build.gradle        # Project-level Gradle config
+├── LICENSE             # MIT License file
 ├── README.md           # This file!
 └── settings.gradle     # Gradle settings
 ```
