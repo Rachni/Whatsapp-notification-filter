@@ -61,7 +61,3 @@ NotificationFilter/
 
 ---
 
-## 📧 Contact
-For questions or suggestions, feel free to reach out:
-- **GitHub**: [@Rachni](https://github.com/Rachni)
-
